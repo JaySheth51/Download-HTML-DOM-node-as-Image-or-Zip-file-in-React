@@ -13,7 +13,7 @@ You should be able to run the following command after the installation procedure
 below.
 
     $ node --version
-    vv8.12.0
+    v8.12.0
 
     $ npm --version
     6.5.0
