@@ -1,5 +1,5 @@
 # Project Title
-## "Download-HTML-DOM-node-as-Image-or-Zip-file-in-React" 
+## Download HTML DOM node as Image or Zip file in React 
 
 ## Requirements
 
@@ -13,10 +13,10 @@ You should be able to run the following command after the installation procedure
 below.
 
     $ node --version
-    v0.10.24
+    vv8.12.0
 
     $ npm --version
-    1.3.21
+    6.5.0
 
 #### Node installation on OS X
 
