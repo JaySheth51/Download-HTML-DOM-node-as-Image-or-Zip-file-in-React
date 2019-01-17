@@ -1,5 +1,7 @@
-# Project Title
-## Download HTML DOM node as Image or Zip file in React 
+# Download HTML DOM node as Image or Zip file in React 
+
+## Usage
+This is an example on how to Download HTML DOM node as Image file or Zip file in React using [domtoimage](https://github.com/tsayen/dom-to-image), [FileSaver](https://github.com/eligrey/FileSaver.js/) and [js.zip](https://stuk.github.io/jszip/) javascript libraries. You can find step by step demo [here]().
 
 ## Requirements
 
